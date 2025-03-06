@@ -1,4 +1,4 @@
-public class ToDoItem {
+public class ToDoListItem {
     private String description;
     private boolean isDone;
 
